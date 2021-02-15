@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "I`m a legend!",
+      "author": "Richard Methenson",
+      "category": "Horror",
+      "ISBN": "9780575079006"
+    },
+    {
+      "id": 4,
+      "title": "A game of Thrones",
+      "author": "George R.R. Martin",
+      "category": "Epic fantasy",
+      "ISBN": "9780008209100"
+    },
+    {
+      "id": 5,
+      "title": "The Chronicles of Narnia!",
+      "author": "C. S. Lewis",
+      "category": "Fantasy",
+      "ISBN": "9780060598242"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "ISBN": "9780439708180"
+    },
+    {
+      "id": 2,
+      "title": "Girl in a train",
+      "author": "Paula Hawkins",
+      "category": "Thriller",
+      "ISBN": "9780735212152"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
